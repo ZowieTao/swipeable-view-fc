@@ -1,0 +1,20 @@
+{
+  "name": "swipeable-views-fc-workspace",
+  "version": "0.0.0",
+  "private": false,
+  "scripts": {
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zowietao/swipeable-views-fc.git"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
